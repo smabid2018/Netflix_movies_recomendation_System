@@ -48,8 +48,6 @@ To get movie recommendations using the `recommend()` function, simply provide th
 ### Conclusion
 This Netflix Movies Recommendation System effectively identifies similar movies based on content. By leveraging cosine similarity, the system ensures that the recommended movies closely match the input movie in terms of genres, keywords, cast, and crew. This approach provides users with personalized and relevant movie suggestions, enhancing their viewing experience.
 
-```python
-recommend('Avatar')
 
 
 
