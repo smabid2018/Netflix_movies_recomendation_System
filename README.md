@@ -43,7 +43,7 @@ Cosine similarity is used to measure the similarity between movies based on thei
 The `recommend()` function is designed to take a movie title as input and return a list of the top 5 similar movies based on content similarity. This function uses the similarity matrix to find movies that are most similar to the input movie.
 
 ### 13. Example Usage
-To get movie recommendations using the `recommend()` function, simply provide the title of a movie as input. For example, to find movies similar to "Avatar", use the following code:
+To get movie recommendations using the `recommend()` function, simply provide the title of a movie as input. For example, to find movies similar to "Avatar".
 
 ### Conclusion
 This Netflix Movies Recommendation System effectively identifies similar movies based on content. By leveraging cosine similarity, the system ensures that the recommended movies closely match the input movie in terms of genres, keywords, cast, and crew. This approach provides users with personalized and relevant movie suggestions, enhancing their viewing experience.
