@@ -1,4 +1,3 @@
-# Netflix_movies_recomendation_System
 # Netflix Movies Recommendation System
 BY Sheikh Md Abid
 
