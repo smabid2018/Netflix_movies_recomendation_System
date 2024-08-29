@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 *.csvratings.csv
+movies.csv
+ratings.csv
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+
